@@ -1,6 +1,6 @@
 body {
     font-family: Roboto;
-    background: #0085ca;
+    background: #004b35;
 }
 #container {
     height: 525px;
@@ -9,4 +9,9 @@ body {
     background: #f7f7f7;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
     border-radius: 20px;
+}
+h1{
+    background: #000;
+    color: white;
+    text-align: center;
 }
