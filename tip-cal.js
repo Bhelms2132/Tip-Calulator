@@ -18,7 +18,19 @@ function calculateTip(){
     //Calculate Tip
     var total = (billAmt * serviceQual) / numOfPeople;
     //Round to two decimal places
-    
-
-
+    total = Math.round(total * 100) / 100;
+    //Allows two digits after decimal point
+    total =  total.toFixed(2);
+    console.log(total);
+    document.getElementById("totalTip").style.display = "block";
+    document.getElementById("tip").innerHTML = total;
 }
+//Hide tip amount on load
+document.getElementById("totalTip").style.display = "none";
+document.getElementById("each").style.display = "none";
+
+//Click to call function
+document.getElementById("calculate").onclick = function() {
+    calculateTip();
+};
+
