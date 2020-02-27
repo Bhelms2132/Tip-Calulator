@@ -12,3 +12,7 @@ Starting point
 Bill amount entered
 <br>
 ![image](https://user-images.githubusercontent.com/52431116/75494573-92b64880-598a-11ea-93d2-402f7c2115be.png)
+<br>
+Tip percentage added
+<br>
+![image](https://user-images.githubusercontent.com/52431116/75495245-0e64c500-598c-11ea-9a0c-246f1b3e2100.png)
