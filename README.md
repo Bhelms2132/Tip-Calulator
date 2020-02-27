@@ -4,3 +4,5 @@ I developed Tip calculator using JavaScript to gain more experience working with
 ## Technologies used
 HTML<br>CSS<br>JavaScript
 
+## How Tip-Calculator works
+Starting point
