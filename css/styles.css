@@ -89,3 +89,29 @@ button:active {
     position: relative;
     top: 1px;
 }
+
+#totalTip {
+    font-size: 30px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#totalTip:before {
+    content: "Tip amount";
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    text-transform: uppercase;
+}
+
+#totalTip sup {
+    font-size: 20px;
+    top: -18px;
+}
+
+#totalTip small {
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+
