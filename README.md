@@ -15,4 +15,5 @@ Bill amount entered
 <br>
 Tip percentage added
 <br>
-![image](https://user-images.githubusercontent.com/52431116/75495245-0e64c500-598c-11ea-9a0c-246f1b3e2100.png)
+![image](https://user-images.githubusercontent.com/52431116/75495613-ede93a80-598c-11ea-98d1-cb6f5bfc7fe7.png)
+
